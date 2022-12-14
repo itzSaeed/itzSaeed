@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @itzSaeed
-- ♟️ Mostly an INTJ
-- 🎯 Focused
-- 🥇 Competitive af
+- 👋 Hi, I’m Saeed
+- ♟️ INTJ personality
+- 🎯 Focused on my goals
+- 🧠 Craving knowledge
 - 🔗 This is my primary social media account
 
 <!---
